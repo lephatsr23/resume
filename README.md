@@ -1,9 +1,9 @@
 
 ## Preview
 
-[![Resume Preview](https://assets.startbootstrap.com/img/screenshots/themes/resume.png)](https://github.com/lephatsr23/resume/resume/)
+[![Resume Preview](https://assets.startbootstrap.com/img/screenshots/themes/resume.png)](https://github.com/lephatsr23resume/)
 
-**[View Live Preview](https://github.com/lephatsr23/resume/resume/)**
+**[View Live Preview](https://github.com/lephatsr23resume/)**
 
 
 ## About
