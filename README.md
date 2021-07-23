@@ -1,7 +1,7 @@
 
 ## Preview
 
-[![Resume Preview](https:https://lephatsr23.github.io/resume/)](https://lephatsr23.github.io/resume/)
+[![Resume Preview](https://github.com/lephatsr23/resume/blob/master/assets/img/resume.png)](https://lephatsr23.github.io/resume/)
 
 **[View Live Preview](https://lephatsr23.github.io/resume/)**
 
